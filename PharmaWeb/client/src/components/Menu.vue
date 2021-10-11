@@ -5,7 +5,7 @@
         <router-link class="item" to="/">
           <img
             class="ui small image"
-            src="../assets/logo.jpeg"
+            src="../assets/logo.png"
             alt="PharmaWeb"
           />
         </router-link>
