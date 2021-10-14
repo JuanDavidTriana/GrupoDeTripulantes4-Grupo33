@@ -1,6 +1,0 @@
-Buenas noches compañeros.
-Intente pasar solo la carpeta 'carousel' y se desconfiguraba la página web,
-al parecer para que esta se ejecute, debe funcionar con la carpeta assets,
-por favor no mover dicha carpeta, solo vamos a trabajar en la carpeta 'carousel'.
-Cordialmente
-Christian Vanegas.
