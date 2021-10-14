@@ -1,7 +1,7 @@
 <template>
   <BasicLayouts>
     <br>
-    <h1>Encuentra aquí el producto que necesitas para el cuidado y recuperación de tu salud</h1>
+    <h1>Encuentra aquí el producto que necesitas para el cuidado y recuperación de tu salud!</h1>
     <br>
     <br>
     <br>
